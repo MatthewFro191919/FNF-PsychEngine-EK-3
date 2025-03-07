@@ -58,6 +58,13 @@ import psychlua.HScript;
 import tea.SScript;
 #end
 
+import mobile.objects.MobileControls;
+import mobile.flixel.FlxHitbox;
+import mobile.flixel.FlxVirtualPad;
+import mobile.flixel.input.FlxMobileInputID;
+import mobile.backend.Data;
+import mobile.backend.SUtil;
+
 /**
  * This is where all the Gameplay stuff happens and is managed
  *
